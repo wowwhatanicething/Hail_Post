@@ -1,0 +1,8 @@
+(dp0
+S'testrecty'
+p1
+I-1200
+sS'testrectx'
+p2
+I-232
+s.
